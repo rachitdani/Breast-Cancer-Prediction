@@ -1,6 +1,7 @@
 # Breast Cancer Prediction Project 
 
 This repository contains a machine learning project for predicting the occurance of Breast Cancer using the datasets 30 features. This dataset is directly available in the sklearn library.
+
 <br>The Dataset detailed information is available on  : https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 This project is a an example of Binary Classification Problem. We have used multiple Classification algorithms and the best algorithm is used for the prediction.
@@ -11,7 +12,6 @@ List of models the project uses to train on the dataset -
 - Logistic Regression
 - Support Vector Machine
 - Gaussian Naive Bayes
-- Random Forest
 - Random Forest Regressor
 - Gradient Boosting
 - Decision Tree
